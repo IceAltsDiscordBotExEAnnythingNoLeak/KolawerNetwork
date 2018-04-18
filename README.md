@@ -1,2 +1,2 @@
-# KolawerNetwork
-KolawerNetwork Bot
+# demonicmc-bot
+Private DemonicMC Bot.
